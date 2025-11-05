@@ -1,0 +1,32 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Cormorant+Garamond:wght@500&family=Inter:wght@400;500&display=swap");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+h1{ 
+	font-family: 'PlayFair Display', cursive;
+	font-size: 18px; 
+	margin:0px;
+	letter-spacing: 1px;
+}
+
+h2,h3, h4 { 
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: bold;
+}
+
+a{ 
+	text-decoration: none;
+}
+
+body, a, p { 
+	font-family: 'inter', sans-serif;
+}
+
